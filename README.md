@@ -4,6 +4,10 @@
 
 "Perubahan dari komputer kedua (clone)"
 "ini fitur baru: login"
-"Ini perubahan dari fitur-konflik"
+
 "Baris berbeda dari fitur-konflik"
+
+"Baris dari main yang akan konflik"
+
+
 
