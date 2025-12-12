@@ -4,8 +4,10 @@
 
 "Perubahan dari komputer kedua (clone)"
 "ini fitur baru: login"
-"ini perubahan dari main branch"
+
+"Baris berbeda dari fitur-konflik"
+
 "Baris dari main yang akan konflik"
 
-"Saya edit baris ini dari branch main"
+
 
