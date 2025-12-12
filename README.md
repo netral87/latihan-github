@@ -9,4 +9,6 @@
 
 "Saya edit baris ini dari branch main"
 
-"Ini fitur baru: dashboard" 
+"Ini fitur baru: dashboard"
+"Ini contoh fitur untuk amend commit." 
+"Edit tambahan untuk testing amend"
