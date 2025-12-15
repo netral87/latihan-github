@@ -4,3 +4,5 @@
 "Percobaan reset"
 "Perubahan sementara belum siap commit" 
 "Fitur dari developer A"
+"Fitur dari Developer B"
+
