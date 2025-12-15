@@ -1,5 +1,6 @@
 "Hallo GitHub!" 
 "Perubahan dari main" 
 "Perubahan berbeda dari fitur-1" 
-"Percobaan reset" 
+"Percobaan reset"
+"Perubahan sementara belum siap commit" 
 
