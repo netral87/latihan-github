@@ -3,4 +3,4 @@
 "Perubahan berbeda dari fitur-1" 
 "Percobaan reset"
 "Perubahan sementara belum siap commit" 
-
+"Fitur dari developer A"
